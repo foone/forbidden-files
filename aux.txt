@@ -1,0 +1,1 @@
+auxiliary device (often a serial port)
