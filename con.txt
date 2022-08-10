@@ -1,1 +1,1 @@
-console
+error: unable to write file F:\test.txt: drive F: (volume label CATGIRL PORN) is full. presumably of catgirl porn. please delete some naked nekos and check out again.
